@@ -7,6 +7,6 @@ Kind of a place to focus all my console projects that are a little more artistic
 
 Actual functions:
 
-![image](https://github.com/user-attachments/assets/2c36a5aa-4e94-4ee5-a06f-548e1a5f5e51)
+![image](https://github.com/user-attachments/assets/1df62f15-6f2f-4d9e-9d27-2bda2452edf8)
 
 Soon, I'll put some ASCII art stuff
