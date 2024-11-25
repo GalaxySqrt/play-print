@@ -1,4 +1,4 @@
-# play-print
+# play-printing
 Printing console app made in python.
 
 Made for play and learn more about console apps development, ascii art and algorithms.
